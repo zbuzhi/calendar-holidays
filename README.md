@@ -60,6 +60,10 @@ GitHub 定时任务可能延迟，因此这是每日检查而非秒级实时更�
 
 工作流限制不能代替 GitHub 账单限制。已核对账号级 Actions 产品预算为 **$0**，预算列表显示 **Usage blocked**，本仓库也受该账号预算约束。可在 GitHub 的 **Settings → Billing and licensing → Budgets and alerts** 中复查 **Stop usage when budget limit is reached**，不要将停止使用改为仅提醒。免费额度内的使用不受付费预算影响；超出预算的付费使用应被阻止。以 GitHub 当前计费及预算规则为准；预算创建前的用量不受新预算追溯限制。以后新增工作流或更改仓库可见性、运行器、存储设置时，应重新检查费用保护。
 
+## 万年历软件更新
+
+同仓库还托管 macOS 万年历的软件更新清单与 Releases 安装包，详见 [软件更新渠道](updates/README.md)。此渠道与节假日索引独立；软件更新不运行额外 Actions 构建任务。
+
 ## 来源与许可
 
 每份 `plans/年份.json` 和 `years/年份.json` 均附官方公告链接及文号。以下统计仅计算该公历年内的日期，不把前一年 12 月的随附记录重复计入：
