@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "notices": {
+    "国办发明电〔2025〕7号": {
+      "year": 2026,
+      "title": "国务院办公厅关于2026年部分节假日安排的通知",
+      "url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047091.htm",
+      "sha256": "7b33dd8e8286ffa762f1ec6ec73ca51219c024637076d5c31ad3bd8bd45c2763",
+      "outcome": "verified-existing"
+    }
+  },
+  "lastSuccessfulMonth": "2026-10"
+}
