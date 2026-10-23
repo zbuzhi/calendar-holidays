@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "year": 2019,
+  "version": "2019.1",
+  "status": "published",
+  "timeZone": "Asia/Shanghai",
+  "updatedAt": "2026-10-23",
+  "sources": [
+    {
+      "title": "国务院办公厅关于2019年部分节假日安排的通知",
+      "documentNumber": "国办发明电〔2018〕15号",
+      "publishedAt": "2018-12-06",
+      "url": "https://app.www.gov.cn/govdata/gov/201812/06/432792/article.html"
+    },
+    {
+      "title": "国务院办公厅关于调整2019年劳动节假期安排的通知",
+      "documentNumber": "国办发明电〔2019〕3号",
+      "publishedAt": "2019-03-22",
+      "url": "https://app.www.gov.cn/govdata/gov/201903/22/436883/article.html"
+    }
+  ],
+  "days": [
+    {
+      "date": "2018-12-29",
+      "name": "元旦调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2018-12-30",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-12-31",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-01-01",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-02-02",
+      "name": "春节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2019-02-03",
+      "name": "春节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2019-02-04",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-02-05",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-02-06",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-02-07",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-02-08",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-02-09",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-02-10",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-04-05",
+      "name": "清明节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-04-06",
+      "name": "清明节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-04-07",
+      "name": "清明节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-04-28",
+      "name": "劳动节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2019-05-01",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-05-02",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-05-03",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-05-04",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-05-05",
+      "name": "劳动节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2019-06-07",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-06-08",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-06-09",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-09-13",
+      "name": "中秋节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-09-14",
+      "name": "中秋节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-09-15",
+      "name": "中秋节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-09-29",
+      "name": "国庆节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2019-10-01",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-10-02",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-10-03",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-10-04",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-10-05",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-10-06",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-10-07",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2019-10-12",
+      "name": "国庆节调休补班",
+      "isOffDay": false
+    }
+  ],
+  "notes": [
+    "劳动节采用2019年3月22日修订后的5月1日至4日安排，纳入4月28日、5月5日补班。"
+  ]
+}

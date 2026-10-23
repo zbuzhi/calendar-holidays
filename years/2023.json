@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "year": 2023,
+  "version": "2023.1",
+  "status": "published",
+  "timeZone": "Asia/Shanghai",
+  "updatedAt": "2026-10-23",
+  "sources": [
+    {
+      "title": "国务院办公厅关于2023年部分节假日安排的通知",
+      "documentNumber": "国办发明电〔2022〕16号",
+      "publishedAt": "2022-12-08",
+      "url": "https://app.www.gov.cn/govdata/gov/202212/08/495070/article.html"
+    },
+    {
+      "title": "国务院办公厅关于2024年部分节假日安排的通知",
+      "documentNumber": "国办发明电〔2023〕7号",
+      "publishedAt": "2023-10-25",
+      "url": "https://app.www.gov.cn/govdata/gov/202310/25/508678/article.html"
+    }
+  ],
+  "days": [
+    {
+      "date": "2022-12-31",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-01-01",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-01-02",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-01-21",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-01-22",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-01-23",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-01-24",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-01-25",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-01-26",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-01-27",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-01-28",
+      "name": "春节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2023-01-29",
+      "name": "春节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2023-04-05",
+      "name": "清明节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-04-23",
+      "name": "劳动节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2023-04-29",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-04-30",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-05-01",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-05-02",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-05-03",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-05-06",
+      "name": "劳动节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2023-06-22",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-06-23",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-06-24",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-06-25",
+      "name": "端午节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2023-09-29",
+      "name": "中秋节、国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-09-30",
+      "name": "中秋节、国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-10-01",
+      "name": "中秋节、国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-10-02",
+      "name": "中秋节、国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-10-03",
+      "name": "中秋节、国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-10-04",
+      "name": "中秋节、国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-10-05",
+      "name": "中秋节、国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-10-06",
+      "name": "中秋节、国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-10-07",
+      "name": "国庆节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2023-10-08",
+      "name": "国庆节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2023-12-30",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-12-31",
+      "name": "元旦",
+      "isOffDay": true
+    }
+  ]
+}

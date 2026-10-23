@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "year": 2016,
+  "version": "2016.1",
+  "status": "published",
+  "timeZone": "Asia/Shanghai",
+  "updatedAt": "2026-10-23",
+  "sources": [
+    {
+      "title": "国务院办公厅关于2016年部分节假日安排的通知",
+      "documentNumber": "国办发明电〔2015〕18号",
+      "publishedAt": "2015-12-11",
+      "url": "https://www.nea.gov.cn/2015-12/11/c_134905936.htm"
+    },
+    {
+      "title": "国务院办公厅关于2017年部分节假日安排的通知",
+      "documentNumber": "国办发明电〔2016〕17号",
+      "publishedAt": "2016-12-02",
+      "url": "https://app.www.gov.cn/govdata/gov/201612/01/394246/article.html"
+    }
+  ],
+  "days": [
+    {
+      "date": "2016-01-01",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-01-02",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-01-03",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-02-06",
+      "name": "春节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2016-02-07",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-02-08",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-02-09",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-02-10",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-02-11",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-02-12",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-02-13",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-02-14",
+      "name": "春节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2016-04-02",
+      "name": "清明节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-04-03",
+      "name": "清明节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-04-04",
+      "name": "清明节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-04-30",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-05-01",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-05-02",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-06-09",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-06-10",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-06-11",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-06-12",
+      "name": "端午节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2016-09-15",
+      "name": "中秋节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-09-16",
+      "name": "中秋节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-09-17",
+      "name": "中秋节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-09-18",
+      "name": "中秋节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2016-10-01",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-10-02",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-10-03",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-10-04",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-10-05",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-10-06",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-10-07",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2016-10-08",
+      "name": "国庆节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2016-10-09",
+      "name": "国庆节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2016-12-31",
+      "name": "元旦",
+      "isOffDay": true
+    }
+  ]
+}

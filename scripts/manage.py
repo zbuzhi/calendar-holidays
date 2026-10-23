@@ -90,11 +90,13 @@ def expand(plan):
         "schemaVersion": 1, "year": year, "version": plan["version"],
         "status": plan["status"], "timeZone": "Asia/Shanghai", "updatedAt": plan["updatedAt"],
         "sources": plan["sources"], "days": [days[key] for key in sorted(days)],
+        **({"notes": plan["notes"]} if plan.get("notes") else {}),
     }
 
 
 def outputs(root=ROOT):
     result, years, updates = {}, {}, []
+    published = {}
     for path in sorted((root / "plans").glob("*.json")):
         plan = read(path)
         data = expand(plan)
@@ -103,6 +105,23 @@ def outputs(root=ROOT):
             raise ValueError(f"文件名和年份不同：{path.name}")
         if data["status"] != "published":
             continue  # Draft years never appear in the public index or annual endpoints.
+        published[data["year"]] = data
+    for year_number, original in sorted(published.items()):
+        year = str(year_number)
+        data = dict(original)
+        days = {d["date"]: d for d in original["days"]}
+        following = published.get(year_number + 1)
+        if following:
+            spillover = [d for d in following["days"] if d["date"].startswith(f"{year}-12-")]
+            for day in spillover:
+                if day["date"] in days and days[day["date"]] != day:
+                    raise ValueError(f"相邻年度数据冲突：{day['date']}")
+                days[day["date"]] = day
+            if spillover:
+                sources = {s["url"]: s for s in original["sources"]}
+                sources.update({s["url"]: s for s in following["sources"]})
+                data["sources"] = list(sources.values())
+        data["days"] = [days[key] for key in sorted(days)]
         content = encode(data)
         result[f"years/{year}.json"] = content
         years[year] = {

@@ -4,6 +4,56 @@
   "timeZone": "Asia/Shanghai",
   "updatedAt": "2026-10-23",
   "years": {
+    "2016": {
+      "version": "2016.1",
+      "path": "years/2016.json",
+      "sha256": "03f5840da50885db874fd1d4339d9010baa09a1e41a70cd84a9b461e37e1a934"
+    },
+    "2017": {
+      "version": "2017.1",
+      "path": "years/2017.json",
+      "sha256": "1ddbf2e612f2da12048388e8c02f9020558473abdaf70775eba4cb854c3121e3"
+    },
+    "2018": {
+      "version": "2018.1",
+      "path": "years/2018.json",
+      "sha256": "d795f2abe9b97bdcd17a52ce357bad3a7d3830e1850a3f149334d12475d22ae6"
+    },
+    "2019": {
+      "version": "2019.1",
+      "path": "years/2019.json",
+      "sha256": "e4c2611a94ec4ba839bbbd81f72d8c6fe3d88e938530155645bc97453a9dd79c"
+    },
+    "2020": {
+      "version": "2020.1",
+      "path": "years/2020.json",
+      "sha256": "76e12d3f76129f3ac2b82141371e489caaf1edf47fa434aefdf196f0bf6c82ad"
+    },
+    "2021": {
+      "version": "2021.1",
+      "path": "years/2021.json",
+      "sha256": "991a50609247faaf27ab414119680ccfabb7ac2299882862905b3527ca0b56d2"
+    },
+    "2022": {
+      "version": "2022.1",
+      "path": "years/2022.json",
+      "sha256": "06640220cc4a6d52133a6987dae544d410ecbc2790d32677c2f7269d984e3dd7"
+    },
+    "2023": {
+      "version": "2023.1",
+      "path": "years/2023.json",
+      "sha256": "0a3c9dc2d78343947447a63a859cd7bb9fe3cbd1b8c1c016ae86f09d76367204"
+    },
+    "2024": {
+      "version": "2024.1",
+      "path": "years/2024.json",
+      "sha256": "2b5238c422929d33190747f8f7a1cd0e984f8d4d066b3e5844b7957e8fea29ae"
+    },
+    "2025": {
+      "version": "2025.1",
+      "path": "years/2025.json",
+      "sha256": "1ccb62dda03ec278fbdbe3d3272eb725a47e9c2b749eb786365f5fbe51a1dba7"
+    },
     "2026": {
       "version": "2026.1",
       "path": "years/2026.json",

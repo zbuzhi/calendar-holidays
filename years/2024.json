@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "year": 2024,
+  "version": "2024.1",
+  "status": "published",
+  "timeZone": "Asia/Shanghai",
+  "updatedAt": "2026-10-23",
+  "sources": [
+    {
+      "title": "国务院办公厅关于2024年部分节假日安排的通知",
+      "documentNumber": "国办发明电〔2023〕7号",
+      "publishedAt": "2023-10-25",
+      "url": "https://app.www.gov.cn/govdata/gov/202310/25/508678/article.html"
+    }
+  ],
+  "days": [
+    {
+      "date": "2023-12-30",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2023-12-31",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-01-01",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-02-04",
+      "name": "春节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2024-02-10",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-02-11",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-02-12",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-02-13",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-02-14",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-02-15",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-02-16",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-02-17",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-02-18",
+      "name": "春节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2024-04-04",
+      "name": "清明节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-04-05",
+      "name": "清明节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-04-06",
+      "name": "清明节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-04-07",
+      "name": "清明节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2024-04-28",
+      "name": "劳动节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2024-05-01",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-05-02",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-05-03",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-05-04",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-05-05",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-05-11",
+      "name": "劳动节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2024-06-08",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-06-09",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-06-10",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-09-14",
+      "name": "中秋节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2024-09-15",
+      "name": "中秋节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-09-16",
+      "name": "中秋节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-09-17",
+      "name": "中秋节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-09-29",
+      "name": "国庆节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2024-10-01",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-10-02",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-10-03",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-10-04",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-10-05",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-10-06",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-10-07",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2024-10-12",
+      "name": "国庆节调休补班",
+      "isOffDay": false
+    }
+  ],
+  "notes": [
+    "2月9日除夕仅为鼓励结合带薪年休假休息，不标记为全国统一放假日。"
+  ]
+}

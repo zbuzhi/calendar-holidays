@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "year": 2018,
+  "version": "2018.1",
+  "status": "published",
+  "timeZone": "Asia/Shanghai",
+  "updatedAt": "2026-10-23",
+  "sources": [
+    {
+      "title": "国务院办公厅关于2018年部分节假日安排的通知",
+      "documentNumber": "国办发明电〔2017〕12号",
+      "publishedAt": "2017-11-30",
+      "url": "https://app.www.gov.cn/govdata/gov/201711/30/415918/article.html"
+    },
+    {
+      "title": "国务院办公厅关于2019年部分节假日安排的通知",
+      "documentNumber": "国办发明电〔2018〕15号",
+      "publishedAt": "2018-12-06",
+      "url": "https://app.www.gov.cn/govdata/gov/201812/06/432792/article.html"
+    },
+    {
+      "title": "国务院办公厅关于调整2019年劳动节假期安排的通知",
+      "documentNumber": "国办发明电〔2019〕3号",
+      "publishedAt": "2019-03-22",
+      "url": "https://app.www.gov.cn/govdata/gov/201903/22/436883/article.html"
+    }
+  ],
+  "days": [
+    {
+      "date": "2017-12-30",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-12-31",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-01-01",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-02-11",
+      "name": "春节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2018-02-15",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-02-16",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-02-17",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-02-18",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-02-19",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-02-20",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-02-21",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-02-24",
+      "name": "春节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2018-04-05",
+      "name": "清明节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-04-06",
+      "name": "清明节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-04-07",
+      "name": "清明节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-04-08",
+      "name": "清明节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2018-04-28",
+      "name": "劳动节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2018-04-29",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-04-30",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-05-01",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-06-16",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-06-17",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-06-18",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-09-22",
+      "name": "中秋节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-09-23",
+      "name": "中秋节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-09-24",
+      "name": "中秋节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-09-29",
+      "name": "国庆节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2018-09-30",
+      "name": "国庆节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2018-10-01",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-10-02",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-10-03",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-10-04",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-10-05",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-10-06",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-10-07",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-12-29",
+      "name": "元旦调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2018-12-30",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2018-12-31",
+      "name": "元旦",
+      "isOffDay": true
+    }
+  ]
+}

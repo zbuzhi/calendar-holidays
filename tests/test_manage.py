@@ -33,6 +33,40 @@ class DataChecks(unittest.TestCase):
                 day += manage.timedelta(days=1)
         self.assertNotIn("2026-10-08", lookup)
 
+    def test_all_published_years_and_calendar_year_totals(self):
+        expected = {2016:(30,6),2017:(28,5),2018:(29,7),2019:(28,6),2020:(30,6),
+                    2021:(31,7),2022:(32,7),2023:(28,7),2024:(30,8),2025:(28,5),2026:(33,6)}
+        output = manage.outputs(ROOT)
+        self.assertEqual(set(json.loads(output["index.json"])["years"]), {str(y) for y in expected})
+        merged = {}
+        for year, counts in expected.items():
+            annual = json.loads(output[f"years/{year}.json"])
+            own = [d for d in annual["days"] if d["date"].startswith(str(year))]
+            self.assertEqual((sum(d["isOffDay"] for d in own),sum(not d["isOffDay"] for d in own)), counts)
+            for day in annual["days"]:
+                if day["date"] in merged:
+                    self.assertEqual(merged[day["date"]], day)
+                merged[day["date"]] = day
+
+    def test_historical_amendments_and_december_backfill(self):
+        output = manage.outputs(ROOT)
+        def lookup(year):
+            return {d["date"]:d for d in json.loads(output[f"years/{year}.json"])["days"]}
+        y19, y20, y24 = lookup(2019), lookup(2020), lookup(2024)
+        self.assertTrue(y19["2019-05-04"]["isOffDay"])
+        self.assertFalse(y19["2019-04-28"]["isOffDay"])
+        self.assertFalse(y19["2019-05-05"]["isOffDay"])
+        for day in ["2020-01-31", "2020-02-01", "2020-02-02"]:
+            self.assertTrue(y20[day]["isOffDay"])
+        self.assertNotIn("2020-02-03", y20)
+        self.assertNotIn("2024-02-09", y24)
+        self.assertTrue(lookup(2016)["2016-12-31"]["isOffDay"])
+        self.assertTrue(lookup(2022)["2022-12-31"]["isOffDay"])
+        self.assertTrue(lookup(2023)["2023-12-30"]["isOffDay"])
+        self.assertFalse(lookup(2018)["2018-12-29"]["isOffDay"])
+        self.assertTrue(lookup(2018)["2018-12-30"]["isOffDay"])
+        self.assertTrue(any("2019年" in source["title"] for source in json.loads(output["years/2018.json"])["sources"]))
+
     def test_bad_dates_and_conflicts(self):
         for value in ["2026-02-31", "2026-2-14", "2027-02-14"]:
             p = copy.deepcopy(self.plan)

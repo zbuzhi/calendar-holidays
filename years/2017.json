@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "year": 2017,
+  "version": "2017.1",
+  "status": "published",
+  "timeZone": "Asia/Shanghai",
+  "updatedAt": "2026-10-23",
+  "sources": [
+    {
+      "title": "国务院办公厅关于2017年部分节假日安排的通知",
+      "documentNumber": "国办发明电〔2016〕17号",
+      "publishedAt": "2016-12-02",
+      "url": "https://app.www.gov.cn/govdata/gov/201612/01/394246/article.html"
+    },
+    {
+      "title": "国务院办公厅关于2018年部分节假日安排的通知",
+      "documentNumber": "国办发明电〔2017〕12号",
+      "publishedAt": "2017-11-30",
+      "url": "https://app.www.gov.cn/govdata/gov/201711/30/415918/article.html"
+    }
+  ],
+  "days": [
+    {
+      "date": "2016-12-31",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-01-01",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-01-02",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-01-22",
+      "name": "春节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2017-01-27",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-01-28",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-01-29",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-01-30",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-01-31",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-02-01",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-02-02",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-02-04",
+      "name": "春节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2017-04-01",
+      "name": "清明节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2017-04-02",
+      "name": "清明节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-04-03",
+      "name": "清明节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-04-04",
+      "name": "清明节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-04-29",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-04-30",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-05-01",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-05-27",
+      "name": "端午节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2017-05-28",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-05-29",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-05-30",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-09-30",
+      "name": "国庆节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2017-10-01",
+      "name": "中秋节、国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-10-02",
+      "name": "中秋节、国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-10-03",
+      "name": "中秋节、国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-10-04",
+      "name": "中秋节、国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-10-05",
+      "name": "中秋节、国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-10-06",
+      "name": "中秋节、国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-10-07",
+      "name": "中秋节、国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-10-08",
+      "name": "中秋节、国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-12-30",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2017-12-31",
+      "name": "元旦",
+      "isOffDay": true
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "year": 2020,
+  "version": "2020.1",
+  "status": "published",
+  "timeZone": "Asia/Shanghai",
+  "updatedAt": "2026-10-23",
+  "sources": [
+    {
+      "title": "国务院办公厅关于2020年部分节假日安排的通知",
+      "documentNumber": "国办发明电〔2019〕16号",
+      "publishedAt": "2019-11-21",
+      "url": "https://app.www.gov.cn/govdata/gov/201911/21/451111/article.html"
+    },
+    {
+      "title": "国务院办公厅关于延长2020年春节假期的通知",
+      "documentNumber": "国办发明电〔2020〕1号",
+      "publishedAt": "2020-01-27",
+      "url": "https://app.www.gov.cn/govdata/gov/202001/27/453442/article.html"
+    }
+  ],
+  "days": [
+    {
+      "date": "2020-01-01",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-01-19",
+      "name": "春节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2020-01-24",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-01-25",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-01-26",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-01-27",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-01-28",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-01-29",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-01-30",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-01-31",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-02-01",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-02-02",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-04-04",
+      "name": "清明节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-04-05",
+      "name": "清明节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-04-06",
+      "name": "清明节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-04-26",
+      "name": "劳动节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2020-05-01",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-05-02",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-05-03",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-05-04",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-05-05",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-05-09",
+      "name": "劳动节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2020-06-25",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-06-26",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-06-27",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-06-28",
+      "name": "端午节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2020-09-27",
+      "name": "国庆节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2020-10-01",
+      "name": "国庆节、中秋节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-10-02",
+      "name": "国庆节、中秋节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-10-03",
+      "name": "国庆节、中秋节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-10-04",
+      "name": "国庆节、中秋节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-10-05",
+      "name": "国庆节、中秋节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-10-06",
+      "name": "国庆节、中秋节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-10-07",
+      "name": "国庆节、中秋节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-10-08",
+      "name": "国庆节、中秋节",
+      "isOffDay": true
+    },
+    {
+      "date": "2020-10-10",
+      "name": "国庆节调休补班",
+      "isOffDay": false
+    }
+  ],
+  "notes": [
+    "春节按全国延长通知计为1月24日至2月2日，原2月1日补班取消；不包含地方另行延迟复工安排。"
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "year": 2022,
+  "version": "2022.1",
+  "status": "published",
+  "timeZone": "Asia/Shanghai",
+  "updatedAt": "2026-10-23",
+  "sources": [
+    {
+      "title": "国务院办公厅关于2022年部分节假日安排的通知",
+      "documentNumber": "国办发明电〔2021〕11号",
+      "publishedAt": "2021-10-25",
+      "url": "https://app.www.gov.cn/govdata/gov/202110/25/477428/article.html"
+    },
+    {
+      "title": "国务院办公厅关于2023年部分节假日安排的通知",
+      "documentNumber": "国办发明电〔2022〕16号",
+      "publishedAt": "2022-12-08",
+      "url": "https://app.www.gov.cn/govdata/gov/202212/08/495070/article.html"
+    }
+  ],
+  "days": [
+    {
+      "date": "2022-01-01",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-01-02",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-01-03",
+      "name": "元旦",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-01-29",
+      "name": "春节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2022-01-30",
+      "name": "春节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2022-01-31",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-02-01",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-02-02",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-02-03",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-02-04",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-02-05",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-02-06",
+      "name": "春节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-04-02",
+      "name": "清明节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2022-04-03",
+      "name": "清明节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-04-04",
+      "name": "清明节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-04-05",
+      "name": "清明节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-04-24",
+      "name": "劳动节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2022-04-30",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-05-01",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-05-02",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-05-03",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-05-04",
+      "name": "劳动节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-05-07",
+      "name": "劳动节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2022-06-03",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-06-04",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-06-05",
+      "name": "端午节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-09-10",
+      "name": "中秋节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-09-11",
+      "name": "中秋节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-09-12",
+      "name": "中秋节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-10-01",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-10-02",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-10-03",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-10-04",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-10-05",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-10-06",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-10-07",
+      "name": "国庆节",
+      "isOffDay": true
+    },
+    {
+      "date": "2022-10-08",
+      "name": "国庆节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2022-10-09",
+      "name": "国庆节调休补班",
+      "isOffDay": false
+    },
+    {
+      "date": "2022-12-31",
+      "name": "元旦",
+      "isOffDay": true
+    }
+  ]
+}
