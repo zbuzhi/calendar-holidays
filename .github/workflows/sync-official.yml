@@ -17,8 +17,10 @@ concurrency:
   cancel-in-progress: false
 jobs:
   sync:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
+    # Fail closed if copied or made private; standard public Linux runners are free.
+    if: ${{ github.repository == 'zbuzhi/calendar-holidays' && github.event.repository.visibility == 'public' }}
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
         with:
@@ -36,16 +38,6 @@ jobs:
         run: |
           python3 -m unittest discover -s tests -v
           python3 scripts/manage.py check
-      - name: Keep report
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: official-sync-report
-          path: |
-            /tmp/holiday-sync-report.json
-            automation/reviews/*.json
-          if-no-files-found: ignore
-          retention-days: 30
       - name: Publish validated data or review records
         run: |
           git config user.name 'github-actions[bot]'
