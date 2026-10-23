@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "region": "CN",
+  "timeZone": "Asia/Shanghai",
+  "updatedAt": "2026-10-23",
+  "years": {
+    "2026": {
+      "version": "2026.1",
+      "path": "years/2026.json",
+      "sha256": "14f2cd6fb696d82bdfeb8f766b7c42606bf80d5735138b037033fa4fd5a2e5e9"
+    }
+  }
+}
