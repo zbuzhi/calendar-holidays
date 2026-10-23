@@ -1,11 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss version="2.0"><channel>
-  <title>万年历软件更新</title>
-  <link>https://github.com/zbuzhi/calendar-holidays/releases</link>
-  <description>macOS 万年历稳定版更新。首个安装包发布前此清单为空。</description>
-  <language>zh-cn</language>
-</channel></rss><!-- sparkle-signatures:
-edSignature: FA+GPJ8pX/KIv6XnQhLzEI+nQjvmu39lP4zd/VWi2oLjTvfZbteLQstsQtShFvA5eFknss4DoMk/3FZD1JXvDQ==
-length: 577
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>日历</title>
+        <item>
+            <title>0.1.8</title>
+            <pubDate>Sat, 24 Oct 2026 00:55:40 +0800</pubDate>
+            <link>https://github.com/zbuzhi/menubar-calendar/releases</link>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[# 日历 0.1.8
+
+- 应用统一命名为「日历」，开源项目为 menubar-calendar。
+- 支持农历、节气、放假调休、实时时钟、自定义格式和主题。
+- 独立的软件更新与节假日更新设置，支持手动检查新版。
+- 支持 Intel 与 Apple Silicon，最低 macOS 13。
+
+安装：解压后将「日历.app」放到应用程序目录。当前版本为免费 ad-hoc 签名，未经 Apple 公证；首次打开可能需要按 macOS 提示在系统设置中允许。
+
+更新包与更新清单均有 Sparkle Ed25519 签名。已有设置、小记和假期缓存继续保留。
+]]></description>
+            <enclosure url="https://github.com/zbuzhi/menubar-calendar/releases/download/app-v0.1.8/menubar-calendar-0.1.8-universal.zip" length="3032484" type="application/octet-stream" sparkle:edSignature="Lh19aBYdqAwz60AQO06dAz4iePKB+CE6M5IR4fWZ8Ci721oD9HfzoVA9ffbTC53Z8PQ4+qiSzvvLOmZ9/yv+Cg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: qUDfqEP8iVs2TFrCzZENwTeEyXfkvBLUol0bN/PD8W67URv6OJm+rnvsosPeI8rktMN4ZLeufDzw992w+RoTCA==
+length: 1832
 -->
